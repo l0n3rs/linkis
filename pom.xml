@@ -227,7 +227,7 @@
     <!-- dev env -->
     <java.version>1.8</java.version>
     <maven.version>3.5.0</maven.version>
-    <scala.version>2.12.17</scala.version>
+    <scala.version>2.13.13</scala.version>
     <scala.binary.version>2.12</scala.binary.version>
     <ant.version>1.10.12</ant.version>
 
@@ -1786,7 +1786,7 @@
         <spark.hadoop.version>${project.version}</spark.hadoop.version>
         <spark.hadoop.scope>compile</spark.hadoop.scope>
         <spark.version>2.4.3</spark.version>
-        <scala.version>2.11.12</scala.version>
+        <scala.version>2.13.13</scala.version>
         <scala.binary.version>2.11</scala.binary.version>
       </properties>
     </profile>
