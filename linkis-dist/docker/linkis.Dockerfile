@@ -16,7 +16,7 @@
 #
 
 ARG IMAGE_BASE=centos:7
-ARG IMAGE_BASE_WEB=nginx:1.19.6
+ARG IMAGE_BASE_WEB=nginx:1.25.5
 
 ######################################################################
 # linkis image base
