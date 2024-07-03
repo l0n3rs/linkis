@@ -163,7 +163,7 @@
 
     <knife4j.version>2.0.9</knife4j.version>
     <springfox.version>2.10.5</springfox.version>
-    <poi.version>5.2.3</poi.version>
+    <poi.version>5.3.0</poi.version>
     <reflections.version>0.9.12</reflections.version>
 
     <!-- dbs -->
