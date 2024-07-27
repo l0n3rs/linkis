@@ -126,7 +126,7 @@
     <minlog.version>1.3.0</minlog.version>
     <io_file.version>1.0</io_file.version>
     <jdbc.version>4</jdbc.version>
-    <trino.version>371</trino.version>
+    <trino.version>416</trino.version>
     <impala.version>3.4.0.7.2.15.0-147</impala.version>
     <openlookeng.version>1.5.0</openlookeng.version>
     <pipeline.version>1</pipeline.version>
